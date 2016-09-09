@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "This is gpeled fork"
+
 # Checking the lock
 if [ -f /rtorrent/.session/rtorrent.lock ]; then
     echo
