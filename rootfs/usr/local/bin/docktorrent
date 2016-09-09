@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Make sure I'm running the correct version
+echo "Hello this is gpeled fork"
+
 # Create working directories if not exists
 mkdir -p /rtorrent/{downloads,watch,.session,rutorrent/user-profiles,rutorrent/user-profiles/torrents}
 
